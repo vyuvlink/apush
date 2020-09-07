@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/apush/static/css/main.523f09c5.chunk.css",
+    "main.js": "/apush/static/js/main.d354b9c5.chunk.js",
+    "main.js.map": "/apush/static/js/main.d354b9c5.chunk.js.map",
+    "runtime-main.js": "/apush/static/js/runtime-main.c49c1249.js",
+    "runtime-main.js.map": "/apush/static/js/runtime-main.c49c1249.js.map",
+    "static/js/2.5bf63f20.chunk.js": "/apush/static/js/2.5bf63f20.chunk.js",
+    "static/js/2.5bf63f20.chunk.js.map": "/apush/static/js/2.5bf63f20.chunk.js.map",
+    "index.html": "/apush/index.html",
+    "precache-manifest.7e6f57de756a6e6738063fd1b42fe4db.js": "/apush/precache-manifest.7e6f57de756a6e6738063fd1b42fe4db.js",
+    "service-worker.js": "/apush/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/apush/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.5bf63f20.chunk.js.LICENSE.txt": "/apush/static/js/2.5bf63f20.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/apush/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c49c1249.js",
+    "static/js/2.5bf63f20.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.d354b9c5.chunk.js"
+  ]
+}
